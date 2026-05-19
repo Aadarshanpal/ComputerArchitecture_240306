@@ -9,14 +9,14 @@
 Logic gates are the fundamental building blocks of all digital circuits. Each gate performs a
 basic Boolean operation on one or more binary inputs to produce a single binary output.
 
-Gate    VHDL Operator   Boolean Expression
-AND     and             Y = A · B
-OR      or              Y = A + B
-NOT     not             Y = bar(A)
-NAND    nand            Y = bar(A · B)
-NOR     nor             Y = bar(A + B)
-XOR     xor             Y = bar(A ⊕ B)
-XNOR    xnor            Y = bar(A ⊕ B)
+# Gate    VHDL Operator   Boolean Expression
+## AND     and             Y = A · B
+## OR      or              Y = A + B
+## NOT     not             Y = bar(A)
+## NAND    nand            Y = bar(A · B)
+## NOR     nor             Y = bar(A + B)
+## XOR     xor             Y = bar(A ⊕ B)
+## XNOR    xnor            Y = bar(A ⊕ B)
 
 
 # Output 
